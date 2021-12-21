@@ -20,4 +20,11 @@ MODULE I: INTRODUCTION TO CYBERSECURITY
 				As a result, family and friends know details about one's personal life, including full name, age and address.
 
 				It is important to overlook the importance of securing offline identity because identity thieves can easily steal data.
+
+			Online identity
+				is not just a name, it is who one is and how they present themselves to others online.
+				It includes the username or alias used for online accounts, as well as the social identity established and portrayed on online communities and websites.
+				Take care to limit the amount of personal information revealed through online identity.
+
+				Many people think that if they do not have any social media or online accounts set up, then they do not have an online identity. This is not the case, if one uses the web, they have an online identity.
 			
