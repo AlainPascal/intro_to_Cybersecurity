@@ -1,0 +1,4 @@
+MODULE I: INTRODUCTION TO CYBERSECURITY
+	this module aims to help understand the growing need for cybersecurity.
+	Faced with an unprecedented surge in cyber attacks, never before has the demand for cybersecurity professionals been so high.
+	Find out more about what cybercriminals want and what to do to ensure that a cyber threat never becomes a reality.
