@@ -32,3 +32,16 @@ MODULE I: INTRODUCTION TO CYBERSECURITY
 			Personal data describes any information including name, social security number, driver license number, date and place of birth, mother's maiden name, and even pictures or messages that are exchanged with family and friends.
 
 			Cybercriminals can use this sensitive information to identify and impersonate someone, infringing on their privacy and potentially causing serious damage to their reputation.
+
+			Medical records (
+				Personal information regarding physical and mental health and wellbeing is added to electronic health records, EHRs, when visiting the doctor.
+				Since the majority of these records are saved online, there is need to be aware of the information that is shared.
+				And these records go beyond the bound of the doctor's office. For example, many fitness trackers collect large amounts of clinical data such as heart rate, blood pressure and blood sugar levels, which is transferred, stored and displayed via the cloud. Therefore, consider this data to be part of medical records
+			)
+			Education records (
+				Educational records contain information about academic qualifications and achievements. However, these records may also include contact information, attendance records, disciplinary reports, health and immunization records as well as any special education records including individualized education programs, IEPs
+			)
+			Employment and financial records (
+				Employment data can be valuable to hackers if they can gather information on past employment, or even current performance reviews.
+				Financial record may include information about income and expenditure. Tax records may include paychecks, credit cards statements, credit rating and bank account details. All of this data, if not safeguarded properly, can compromise privacy and enable cybercriminals to use it for their own gain.
+			)
