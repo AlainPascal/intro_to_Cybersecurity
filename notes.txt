@@ -2,3 +2,12 @@ MODULE I: INTRODUCTION TO CYBERSECURITY
 	this module aims to help understand the growing need for cybersecurity.
 	Faced with an unprecedented surge in cyber attacks, never before has the demand for cybersecurity professionals been so high.
 	Find out more about what cybercriminals want and what to do to ensure that a cyber threat never becomes a reality.
+
+	The World of CyberSecurity
+
+		What is Cybersecurity
+			It is the ongoing effort to protect individuals, organizations and governments from digital attacks by protecting networked systems and data from unauthorized use or harm.
+
+			On a personal level, one needs to safeguard their identity, data, and computing devices.
+			At an organizational level, it is everyone's responsibility to protect the organization's reputation, data and customers.
+			As more as digital information is being gathered and shared, its protection becomes even more vital at the government level, where national security, economic stability and the safety and wellbeing of citizens are at stake.
