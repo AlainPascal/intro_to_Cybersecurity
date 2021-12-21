@@ -11,3 +11,13 @@ MODULE I: INTRODUCTION TO CYBERSECURITY
 			On a personal level, one needs to safeguard their identity, data, and computing devices.
 			At an organizational level, it is everyone's responsibility to protect the organization's reputation, data and customers.
 			As more as digital information is being gathered and shared, its protection becomes even more vital at the government level, where national security, economic stability and the safety and wellbeing of citizens are at stake.
+
+		Protecting Personal Data
+			Personal data is any information that can be used to identify someone, and it can exist both offline and onine.
+
+			Offline identity
+				is the real-life persona that is presented on a daily basis at home, at school or at work.
+				As a result, family and friends know details about one's personal life, including full name, age and address.
+
+				It is important to overlook the importance of securing offline identity because identity thieves can easily steal data.
+			
