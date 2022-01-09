@@ -73,4 +73,13 @@ MODULE I: INTRODUCTION TO CYBERSECURITY
 			For example, there have been many reported cases of hackers impersonating family members and sending messages stating that they need money wired in order to get home from abroad after losing their wallets.
 			And while you may think that your frequent flyer air miles are not valuable to cybercriminals, think again. In 2015, cybercriminals hacked approximately 10,000 American Airlines and United accounts, booking free flights and upgrades using stolen credentials. Even though the frequen flyer miles were returned to the customers by the airlines. this example demonstrates the value of login credentials.
 			Cybercriminals are certainly very imaginative when it comes to gaining access to your money. But that is not all they are after; they could also steal your identity and ruin your life.
+
+		Identity theft
+			Not content with stealing your money for short-term financial gain, cybercriminals are invested in the long-term gain of identity theft.
+
+			Medical theft
+				Rising medical costs have led to an increase in medical identity theft, with cybercriminals stealing medical insurance to use the benefits for themselves. Where this happens, any medical procedures carried out in your name will then be saved in your medical records.
+
+			Banking
+				Stealing private data can help cybercriminals access bank accounts, credit cards, social profiles and other online accounts. Armed with this information, on identity thief could file a fake tax return and collect the refund. They could even take out loans in your name and ruin your credit rating and your life as well.
 		
