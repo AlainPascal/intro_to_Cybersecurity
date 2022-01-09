@@ -45,3 +45,16 @@ MODULE I: INTRODUCTION TO CYBERSECURITY
 				Employment data can be valuable to hackers if they can gather information on past employment, or even current performance reviews.
 				Financial record may include information about income and expenditure. Tax records may include paychecks, credit cards statements, credit rating and bank account details. All of this data, if not safeguarded properly, can compromise privacy and enable cybercriminals to use it for their own gain.
 			)
+
+		Where Is Your Data ?
+			This has got you thinking. Only yesterday, you shared a couple of photos of your first day on the job with a few of your close friends.
+			You took some photos at work on your mobile phone. Copies of these photos are now available on your mobile device.
+			You shared these with five close friends, who live in various locations across the world.
+			All of your friends downloaded the photos and now have copies of your photos on their devices.
+			One of your friends was so proud that they decided to post and share your photos online. The photos are no longer just on device. They have in fact ended up on servers located in different part of the world and people whom you do not even know now have access to your photos.
+
+			This is just one example that reminds us that every time we collect or share personal data, we should consider our security. There are different laws that protect your privacy and data in your country. But do you know where your data is ?
+
+			Following an appointment, the doctor will update your medical record. For billing purposes, this information may be shared with the insurance company. In such cases, your medical record, or part of it, is now accessible at at the insurance company.
+
+			Store loyalty cards may be convenient to save money on your purchases. However, the store is using this card to build a profile of your purchasing behavior, which it can then use to target you with special offers from its marketing partners.
