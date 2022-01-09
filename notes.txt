@@ -58,3 +58,11 @@ MODULE I: INTRODUCTION TO CYBERSECURITY
 			Following an appointment, the doctor will update your medical record. For billing purposes, this information may be shared with the insurance company. In such cases, your medical record, or part of it, is now accessible at at the insurance company.
 
 			Store loyalty cards may be convenient to save money on your purchases. However, the store is using this card to build a profile of your purchasing behavior, which it can then use to target you with special offers from its marketing partners.
+
+		Smart Devices
+			Consider how often you use your computing devices to access your personal data. Unless you have chosen to receive paper statements, you probably access digital copies of bank account statements via your bank's website. And when paying a bill, it is highly likely that you have transferred the required funds via a mobile banking application.
+			But besides allowing you to access your information, computing devices can now also generate information about you.
+			Wearable technologies such as smart watches and activity trackers collect data for clinical research, patient health monitoring, and fitness and wellbeing tracking. As the global fitness tracker market grows, so also does the risk to personal data.
+			It might seem that information available online is free. But is privacy the price we pay for this digital convenience ?
+			For example, social media companies generate the majority of their income bey selling targeted advertising based on customer data that has been mined using algorithms or formulas. Of course, these companies will argue that they are not selling customer data, but sharing customer data with their marketing partners.
+		
