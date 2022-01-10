@@ -107,4 +107,16 @@ MODULE I: INTRODUCTION TO CYBERSECURITY
 		Before starting to implement best practices to safeguard organizational data, first know what it is.
 		In organizations like eLearning company @Apollo, there are two main types of data to be aware of.
 
-		
+		Types of Organizational Data
+
+			Traditional Data
+				Traditional data is typically generated and maintained by all organizations, big and small.
+				It includes the following:
+					* Transactional data such as details relating to buying and selling, production activities and basic organizational operations such as any information used to make employment decisions.
+
+					* Intellectual property such as patents, trademarks and new product plans, which allows an organization to gain economic advantage over its competitors.
+					This information is often considered a trade secret and losing it could prove disastrous for the future of a company.
+
+					* Financial data such as income statements, balance sheets and cash flow statements, which provide insight into the health of a company.
+
+			
