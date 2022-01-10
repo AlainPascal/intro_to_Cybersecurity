@@ -99,4 +99,12 @@ MODULE I: INTRODUCTION TO CYBERSECURITY
 
 			Websites visited
 				Websites use cookies to track activities in order to provide a more personalized experience. But this leaves a data trail that is linked to online identity that can often end up in the hands of advertisers.
+
+
+	Organizational Data
+
+		It is obvious that cybercriminals are becoming more sophisticated in their pursuit of valuable personal data. But they also pose a huge threat to organizational data.
+		Before starting to implement best practices to safeguard organizational data, first know what it is.
+		In organizations like eLearning company @Apollo, there are two main types of data to be aware of.
+
 		
