@@ -82,4 +82,21 @@ MODULE I: INTRODUCTION TO CYBERSECURITY
 
 			Banking
 				Stealing private data can help cybercriminals access bank accounts, credit cards, social profiles and other online accounts. Armed with this information, on identity thief could file a fake tax return and collect the refund. They could even take out loans in your name and ruin your credit rating and your life as well.
+
+		Who Else Wants Your Data ?
+			It is not just criminals who seek your personal data.
+
+			Your Internet service provider (ISP)
+				ISP tracks online activity, and in some countries, they can sell this data to advertisers for a profit.
+				In certain circumstances, ISPs may be legally required to share information with government surveillance agencies or authorities.
+
+			Advertisers
+				Targeted advertising is part of the Internet experience.
+				Advertisers monitor and track online activities such as shopping habits and personal preferences and send targeted ads.
+
+			Search engines and social media platforms
+				These platforms gather information about gender, geolocation, phone number and political and religious ideologies based on search histories and online identity. This information is then sold to advertisers for a profit.
+
+			Websites visited
+				Websites use cookies to track activities in order to provide a more personalized experience. But this leaves a data trail that is linked to online identity that can often end up in the hands of advertisers.
 		
