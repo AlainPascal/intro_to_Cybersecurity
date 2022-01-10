@@ -119,4 +119,8 @@ MODULE I: INTRODUCTION TO CYBERSECURITY
 
 					* Financial data such as income statements, balance sheets and cash flow statements, which provide insight into the health of a company.
 
-			
+			Internet of Things (IoT) and Big Data
+				IoT is a large network of physical objects, such as sensors, software and other equipment. All of these things are connected too the Internet, with the ability to collect and share data.
+				And given that storage options are expanding through the cloud and virtualization, it is no surprise that the emergence of IoT has led to an exponential growth in data, creating a new area of interest in technology and business called Big Data.
+
+		
