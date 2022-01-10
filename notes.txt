@@ -123,4 +123,8 @@ MODULE I: INTRODUCTION TO CYBERSECURITY
 				IoT is a large network of physical objects, such as sensors, software and other equipment. All of these things are connected too the Internet, with the ability to collect and share data.
 				And given that storage options are expanding through the cloud and virtualization, it is no surprise that the emergence of IoT has led to an exponential growth in data, creating a new area of interest in technology and business called Big Data.
 
-		
+		The Cube
+
+			The MccCumber Cube is a model framework created by John McCumber in 1991 to help organizations establish and evaluate information security initiatives by considering all of the related factors that impact them.
+			This security model has three dimensions:
+				
